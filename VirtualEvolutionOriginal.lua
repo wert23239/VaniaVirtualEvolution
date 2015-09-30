@@ -1,6 +1,5 @@
--- This is heavily Inspired by SethBling.
--- Intended for use with the BizHawk emulator and Super Mario World or Super Mario Bros. ROM.
--- For SMW, make sure you have a save state named "DP1.state" at the beginning of a level,
+
+-- For CastleVania, make sure you have a save state named "Save1.state" at the beginning of a level,
 -- and put a copy in both the Lua folder and the root directory of BizHawk.
 	client.speedmode(50)
 	Filename = "Save2.state"
